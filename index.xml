@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>the website title shown on the tab</title>
-    <link>https://test1.github.io/</link>
+    <link>https://asushko.github.io/statics-site/</link>
     <description>Recent content on the website title shown on the tab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Yuanyuan GE 2020</copyright><atom:link href="https://test1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Yuanyuan GE 2020</copyright><atom:link href="https://asushko.github.io/statics-site/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

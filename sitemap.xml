@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://test1.github.io/categories/</loc>
+    <loc>https://asushko.github.io/statics-site/categories/</loc>
   </url>
   
   <url>
-    <loc>https://test1.github.io/tags/</loc>
+    <loc>https://asushko.github.io/statics-site/tags/</loc>
   </url>
   
   <url>
-    <loc>https://test1.github.io/</loc>
+    <loc>https://asushko.github.io/statics-site/</loc>
   </url>
   
 </urlset>
